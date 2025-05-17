@@ -1,0 +1,1 @@
+A functional and interactive calculator built using HTML, CSS, and vanilla JavaScript. Handles basic arithmetic operations with real-time updates. Designed with a simple, intuitive interface and responsive layout. Demonstrates core JavaScript concepts like DOM manipulation, event handling, and dynamic UI rendering.
