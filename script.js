@@ -46,7 +46,7 @@ function calculate() {
       display.value = result;
     }
   } catch (error) {
-    display.value = "Error"; // Show error if expression is wrong
+    display.value = "Error"; // Show error if expression is wrong 
     expression = "";
   }
 }
